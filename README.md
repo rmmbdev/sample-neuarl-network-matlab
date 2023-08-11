@@ -1,2 +1,2 @@
-# sample-neuarl-network-matlab
-Sample project to illustrate how neural networks work in Matlab
+# NN_Implementation
+Use test.m file to understand how it works
